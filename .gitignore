@@ -48,3 +48,4 @@ Thumbs.db
 /.vs/ThreeShape.AutomateStatistics/config
 /.vs/ThreeShape.AutomateStatistics/v17/.suo
 /.vs/ThreeShape.AutomateStatistics/v17/DocumentLayout.json
+/obj/Release
